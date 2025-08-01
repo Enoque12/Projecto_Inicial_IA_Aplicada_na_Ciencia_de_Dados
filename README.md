@@ -19,6 +19,8 @@ Investigar o potencial da IA generativa no suporte à análise de dados, especia
 
 ## 🧩 Contexto do Projeto
 
+<img src="https://raw.githubusercontent.com/alura-cursos/ia-datascience-dataviz/main/imagens/logos/logo_branca_fundo_azul.png" alt="inserir alt"><br>
+
 Durante o curso, atuamos como analistas de dados da **Zoop**, uma grande varejista com atuação nacional no Brasil via e-commerce. Nosso desafio é criar relatórios visuais que representem tanto o desempenho de vendas quanto o perfil dos clientes.
 
 A IA será utilizada para:
