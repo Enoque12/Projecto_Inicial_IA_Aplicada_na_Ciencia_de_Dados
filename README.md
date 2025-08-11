@@ -72,7 +72,7 @@ Antes de iniciar este projeto, recomenda-se ter conhecimentos básicos em:
 
 ##  Status do Projeto
 
-🔄 **Em andamento** - Projeto sendo desenvolvido conforme o progresso do curso.
+🔄 **Concluído** - Projeto Concluído
 
 ---
 
